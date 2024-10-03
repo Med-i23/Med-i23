@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science major
+Computer Science major at SZTE
 
 
 ## 🌐 Socials:
