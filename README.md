@@ -1,6 +1,6 @@
 # 💫 About Me
 - 🎓 Majored in **computer science** at SZTE. 
-- 💪 Always looking forward for new opportunities!
+- 💪 Always looking forward to new opportunities!
 
 
 ## 🌐 Socials
