@@ -1,5 +1,5 @@
 # 💫 About Me
-Majored in **computer science** at SZTE
+Majored in **computer science** at SZTE. Always looking forward for new opportunities!
 
 
 ## 🌐 Socials
