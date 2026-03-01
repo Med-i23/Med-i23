@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Medard Csete</h1>
 <h3 align="center">💪 Always looking forward to new opportunities!</h3>
 
-- 🌱 I’m currently learning **Go, Javascipt**
+- 🌱 I’m currently learning **Go, Javascipt, Cloud computing**
 
 - 👨‍💻 All of my projects are available at [https://csetemedard-59c1c.web.app](https://csetemedard-59c1c.web.app)
 
